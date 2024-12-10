@@ -4,7 +4,7 @@ namespace BenBjurstrom\Otpz\Exceptions;
 
 use Exception;
 
-class OtpAttemptsException extends Exception
+class OtpAttemptException extends Exception
 {
     public function __construct(string $message)
     {
