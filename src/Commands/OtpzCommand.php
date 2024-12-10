@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace BenBjurstrom\Otpz\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class OtpzCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'otpz';
 
     public $description = 'My command';
 
