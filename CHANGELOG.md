@@ -2,6 +2,14 @@
 
 All notable changes to `otpz` will be documented in this file.
 
+## v0.2.1 - 2025-01-12
+
+### What's Changed
+
+* 8 add tailwind styles by @benbjurstrom in https://github.com/benbjurstrom/otpz/pull/9
+
+**Full Changelog**: https://github.com/benbjurstrom/otpz/compare/v0.2.0...v0.2.1
+
 ## v0.2.0 - 2025-01-12
 
 ### What's Changed
