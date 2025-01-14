@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/benbjurstrom/otpz/blob/main/art/otpz.png?raw=true" alt="OTPz Screenshot">
+    <img src="https://github.com/benbjurstrom/otpz/blob/main/art/email.png?raw=true" alt="OTPz Screenshot">
 </div>
 
 # First Factor One-Time Passwords for Laravel
